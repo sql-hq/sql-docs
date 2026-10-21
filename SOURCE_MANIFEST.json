@@ -1,0 +1,80 @@
+{
+  "version": "0.1.0",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 117,
+      "sha256": "8207da9100fc9ebf00163b28cf00ddc9b63667a195d22070f224350be0caf543"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 523,
+      "sha256": "d6314aacfe237724a7a7c30bec311a2cb7a294d71a3f31c11d56bae36ad29989"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1112,
+      "sha256": "33091271913aa9e82ac1d456c5f67ab24b30d925418ee668f2be6fd5e4e52d25"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1435,
+      "sha256": "4c32d1037bf066fa3bb6be2c887666745d8bad5ce205dcdd0c2446f51b31ae2e"
+    },
+    {
+      "path": "RELEASE_NOTES.md",
+      "bytes": 467,
+      "sha256": "02eebe12d6714f0cd089eaeae12cacb3a8430ad6cf1173f74a3f803324fe5859"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 834,
+      "sha256": "27a4e7a9ef356fb796ddf6935c25f1f1989aed9908bb4fd5381f8fa30576ebd5"
+    },
+    {
+      "path": "docs/architecture.md",
+      "bytes": 1501,
+      "sha256": "e9d0c5b152ed8201b09b75720d77ff8665df012b07c28d2a9e48811ce98a4cf1"
+    },
+    {
+      "path": "docs/railgun-integration.md",
+      "bytes": 2592,
+      "sha256": "3f4c2c3aa211399ea2212861f3aacacbb1f8ae73a7fbfaf50412bfe4a2ef3bca"
+    },
+    {
+      "path": "docs/vault-security.md",
+      "bytes": 1935,
+      "sha256": "7375d99043f5f6304dbfe13babc099b6fb26e62594a4d6235cc034c432bb4da4"
+    },
+    {
+      "path": "evidence/ANNOUNCEMENT.md",
+      "bytes": 2982,
+      "sha256": "a03e402a17d1bfd469421036f2045fd140aada0ae377ab005b0eeb3b6d0811b6"
+    },
+    {
+      "path": "evidence/SHA256SUMS.txt",
+      "bytes": 444,
+      "sha256": "0d0360b4fff2966c3edcec88badbd28b503bf97e4d92b144c93abfca1f49be51"
+    },
+    {
+      "path": "evidence/VERIFICATION.md",
+      "bytes": 2680,
+      "sha256": "5e6a5084d803e4a20cb16fa73c76c2bf3f91b8e5f9c5a2bd5f159a8c27aedac9"
+    },
+    {
+      "path": "evidence/ethereum-mainnet-receipts.json",
+      "bytes": 5434,
+      "sha256": "f419563e652d7ffeb4b2bf2c3c115ddaad0eaa4fa517362f75710ad975f3e648"
+    },
+    {
+      "path": "evidence/operator-test-results.json",
+      "bytes": 1161,
+      "sha256": "5cabccc94a63395a0c9229c015d523cbf432de4a5f0518df8d3b8dcf176671d6"
+    },
+    {
+      "path": "evidence/operator-unit-tests.txt",
+      "bytes": 1899,
+      "sha256": "9ab2ecf00ccd8e7fe0ce0e971ebf51579456ed412a219070bd7d9f588f6a7390"
+    }
+  ]
+}

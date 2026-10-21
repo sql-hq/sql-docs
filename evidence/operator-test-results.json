@@ -1,0 +1,28 @@
+{
+  "evidenceType": "Operator SDK acceptance-runner assertions, not independently signed third-party attestations.",
+  "normalCycle": {
+    "passed": true,
+    "shieldHash": "0x448241176ae2b8f927dd6c84becefccae110a43acf012f545873e37df1c5f3d1",
+    "payoutHash": "0xa6c04d697e93880b578add23da7b8d4a67227ba4ebda130a4d4d202a87bb588f",
+    "unshieldHash": "0x89c960b56254a0c50027efcce54721d9b4b7efc6f6b9624600de617f42202dbc",
+    "publicReturnUsdcUnits": "9776",
+    "recoveredFundedHistory": true,
+    "recoveredVaults": 2,
+    "minimumHistoryEntriesPerVault": 2
+  },
+  "originCycle": {
+    "passed": true,
+    "shieldHash": "0x45a63d20519cde49ecf04e233bd0b95cbd2ebbeec63057257ae089f0344dde69",
+    "returnHash": "0x8060c2e37ee7424e6bdac80e4f9821c3a63e9f1c9670a6f3125cc9af355f292c",
+    "publicReturnUsdcUnits": "9951",
+    "preservedPriorPrivateBalance": true,
+    "recoveredFundedHistory": true,
+    "minimumRecoveredHistoryEntries": 4
+  },
+  "cumulativeTestFundingUsdcUnits": "20000",
+  "notClaimed": [
+    "Independent security certification",
+    "Comprehensive real external-wallet browser acceptance",
+    "Every public-release readiness gate passed"
+  ]
+}

@@ -1,0 +1,29 @@
+Recorded successful operator unit-suite output; not a new browser or security-audit run.
+
+✔ operator-only diagnostic cache round-trips opaque SDK bytes with private file permissions (13.606365ms)
+✔ damaged diagnostic cache is rejected instead of silently being reported as synchronized (4.428735ms)
+✔ transient synchronization reads recover without retrying a financial operation (3.463557ms)
+✔ invalid arguments and contract reverts stop immediately (0.741769ms)
+✔ persistent transient failures stop after eight bounded attempts (1.107389ms)
+✔ safe diagnostic details never echo credential-bearing messages or cause values (0.297518ms)
+✔ unclassified errors are not automatically retried (0.252989ms)
+✔ additional origin return shares the original funding and gas ceilings (0.911207ms)
+✔ stage hash is durably saved before receipt and blocks duplicate submission (158.796089ms)
+✔ the approved USDC ceiling is cumulative and cannot be exceeded (1.167736ms)
+✔ worst-case gas ceiling is cumulative, with rejected attempts leaving state unchanged (1.002196ms)
+✔ reload preserves gas and token reservations, including unresolved attempts (0.234208ms)
+✔ invalid, negative and out-of-cap ledgers are rejected (0.239328ms)
+✔ zero and negative funding or gas cannot bypass limits (0.305169ms)
+✔ a single acceptance cycle cannot silently grow beyond four transactions (0.234962ms)
+✔ operator call policy accepts only the exact test USDC approval (8.301001ms)
+✔ operator call policy rejects direct token or ETH transfers and unknown contracts (0.618619ms)
+✔ failed durable reservation prevents the wallet from signing or broadcasting (24.19327ms)
+✔ uncertain broadcasting retains the durable worst-case reservation across process recovery (31.835304ms)
+ℹ tests 19
+ℹ suites 0
+ℹ pass 19
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 6382.285646
